@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page1">First page</string>
+    <string name="page2">Secong page</string>
+    <string name="Nbutton">Next page</string>
+    <string name="Cbutton">Close app</string>
+</resources>

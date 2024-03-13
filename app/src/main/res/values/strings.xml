@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Lab1</string>
+    <string name="page1">Primeira página</string>
+    <string name="page2">Segunda página</string>
+    <string name="Nbutton">Próximo página</string>
+    <string name="Cbutton">Fechar app</string>
+    <string name="Student" translatable="false">Sérgio Barbosa 26211</string>
+</resources>
